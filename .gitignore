@@ -1,0 +1,7 @@
+*.gif
+*.jpg
+.vscode
+__pycache__
+models
+content
+.tensor
